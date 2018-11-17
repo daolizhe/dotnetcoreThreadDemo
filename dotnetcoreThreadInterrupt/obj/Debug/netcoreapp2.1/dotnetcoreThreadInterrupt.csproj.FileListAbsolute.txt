@@ -1,0 +1,11 @@
+F:\Zhao_LiQin\My\GitHub\dotnetcoreThreadDemo\dotnetcoreThreadInterrupt\bin\Debug\netcoreapp2.1\dotnetcoreThreadInterrupt.deps.json
+F:\Zhao_LiQin\My\GitHub\dotnetcoreThreadDemo\dotnetcoreThreadInterrupt\bin\Debug\netcoreapp2.1\dotnetcoreThreadInterrupt.runtimeconfig.json
+F:\Zhao_LiQin\My\GitHub\dotnetcoreThreadDemo\dotnetcoreThreadInterrupt\bin\Debug\netcoreapp2.1\dotnetcoreThreadInterrupt.runtimeconfig.dev.json
+F:\Zhao_LiQin\My\GitHub\dotnetcoreThreadDemo\dotnetcoreThreadInterrupt\bin\Debug\netcoreapp2.1\dotnetcoreThreadInterrupt.dll
+F:\Zhao_LiQin\My\GitHub\dotnetcoreThreadDemo\dotnetcoreThreadInterrupt\bin\Debug\netcoreapp2.1\dotnetcoreThreadInterrupt.pdb
+F:\Zhao_LiQin\My\GitHub\dotnetcoreThreadDemo\dotnetcoreThreadInterrupt\obj\Debug\netcoreapp2.1\dotnetcoreThreadInterrupt.csprojAssemblyReference.cache
+F:\Zhao_LiQin\My\GitHub\dotnetcoreThreadDemo\dotnetcoreThreadInterrupt\obj\Debug\netcoreapp2.1\dotnetcoreThreadInterrupt.csproj.CoreCompileInputs.cache
+F:\Zhao_LiQin\My\GitHub\dotnetcoreThreadDemo\dotnetcoreThreadInterrupt\obj\Debug\netcoreapp2.1\dotnetcoreThreadInterrupt.AssemblyInfoInputs.cache
+F:\Zhao_LiQin\My\GitHub\dotnetcoreThreadDemo\dotnetcoreThreadInterrupt\obj\Debug\netcoreapp2.1\dotnetcoreThreadInterrupt.AssemblyInfo.cs
+F:\Zhao_LiQin\My\GitHub\dotnetcoreThreadDemo\dotnetcoreThreadInterrupt\obj\Debug\netcoreapp2.1\dotnetcoreThreadInterrupt.dll
+F:\Zhao_LiQin\My\GitHub\dotnetcoreThreadDemo\dotnetcoreThreadInterrupt\obj\Debug\netcoreapp2.1\dotnetcoreThreadInterrupt.pdb
